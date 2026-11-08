@@ -39,3 +39,9 @@ Per-SKU demand history (`sku`, `period`, `qty`) covering 12+ periods, plus unit 
 2. Policy table per occupied cell
 3. Attention-reallocation paragraph (from where, to where)
 4. Rationalization shortlist (top C-Z items by holding cost or shelf age, if data allows)
+
+Worked example including a safety-stock stress test: https://github.com/gulmezeren2-byte/abc-xyz-inventory
+
+---
+
+Source: [industrial-engineering-ai-skills](https://github.com/gulmezeren2-byte/industrial-engineering-ai-skills) by Eren Gulmez (MIT). The full method pack - entry skill, role agents, data-hygiene rules and artifact templates - lives there.
